@@ -22,7 +22,7 @@ td{
 
 | Name | Research topics | |
 | :--- | :---- | :---- |
-| [Arjun Bhattacharya](https://bhattacharya-a-bt.github.io) [@bhattac_a_bt](https://twitter.com/bhattac_a_bt) | TWAS in Carolina Breast Cancer Study; <br> Deconvolution of tumor expression assayed via Nanostring; <br> Co-supervised with Melissa Troester | <img width="100" src="../assets/arjunbhattacharya.jpg"> | 
+| [Arjun Bhattacharya](https://arjun-bhattacharya.com/) [@bhattac_a_bt](https://twitter.com/bhattac_a_bt) | TWAS in Carolina Breast Cancer Study; <br> Deconvolution of tumor expression assayed via Nanostring; <br> Co-supervised with Melissa Troester | <img width="100" src="../assets/arjunbhattacharya.jpg"> | 
 | Sarah Reifeis [@sarah_reifeis](https://twitter.com/sarah_reifeis) | Exposure effects on gene expression in observational studies; <br> Co-supervised with Michael Hudgens | <img width="100" src="../assets/sarahreifeis.jpg"> |
 | Scott Van Buren | Uncertainty estimation in scRNA-seq; <br> Co-supervised with Naim Rashid | <img width="100" src="../assets/scottvanburen.jpg"> |
 | Euphy Wu | Allele-specific expression estimation in RNA-seq | <img width="100" src="../assets/euphywu.jpg"> |
